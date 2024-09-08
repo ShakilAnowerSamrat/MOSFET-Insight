@@ -8,7 +8,7 @@ MOSFET Insight uses machine learning to predict key characteristics of MOSFETs, 
 
 ## Project Repository
 
-[GitHub Repository](https://github.com/shakilanowersamrat/MOSFET-Insight)
+[GitHub Repository](https://github.com/ShakilAnowerSamrat/MOSFET-Insight)
 
 ## Features and Labels
 
@@ -63,7 +63,7 @@ MOSFET Insight provides several key benefits for the semiconductor industry and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shakilanowersamrat/MOSFET-Insight.git
+   git clone https://github.com/ShakilAnowerSamrat/MOSFET-Insight.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -84,7 +84,7 @@ We welcome contributions to improve MOSFET Insight. Please fork the repository a
 
 ## License
 
-This project is licensed under the Apache-2.0 License.
+This project is licensed under the CC0 1.0 Universal license.
 
 ## Contact
 
